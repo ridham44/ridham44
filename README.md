@@ -120,24 +120,7 @@ and I'm currently shipping LLM-powered conversational and voice AI features in p
 
 ---
 
-## 05 · GitHub Activity
-
-<div align="center">
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=ridham44&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Ridham's GitHub stats" /></td>
-<td><img src="https://streak-stats.demolab.com/?user=ridham44&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Ridham's GitHub streak" /></td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridham44&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Ridham's most used languages" />
-
-</div>
-
----
-
-## 06 · Philosophy
+## 05 · Philosophy
 
 > I care less about which framework is trending and more about whether what I ship actually holds up —
 > end to end, from the API contract to the person using it on the other side.
