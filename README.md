@@ -24,12 +24,14 @@ Lately that means LLM-powered systems: RAG assistants, AI hiring pipelines, and 
 class Ridham:
     role       = "Full Stack Developer · AI / LLM Engineer"
     location   = "Ahmedabad, India"
-    education  = "B.Tech CSE, LJ University (2022–2026)"
+    education  = "B.Tech CST, LJ University (2022–2026)"
     current    = "AI/ML Developer @ Work24 — LLM chat & voice-to-voice AI for Hyphen OI"
 
-    stack      = ["React", "Node.js", "Express", "MongoDB", "PostgreSQL", "MySQL"]
-    backend    = ["REST APIs", "Auth", "Multi-tenant data isolation", "Prisma", "Sequelize", "Mongoose"]
-    ai_ml      = ["LLMs", "RAG", "Voice AI", "Local models", "NLP", "Machine Learning"]
+    previously = ["MERN Stack Intern @ WebEarl Technologies", "Node.js Intern @ CHL Group"]
+
+    builds     = ["RAG assistants", "AI hiring pipelines", "Real-time voice agents"]
+    exploring  = ["Self-hosted LLMs", "Voice agent observability", "Vector search with pgvector"]
+    open_to    = ["Full Stack", "Backend", "AI / LLM Engineer roles"]
 
     principle  = "Dependable AI: refuse when retrieval is weak instead of guessing."
 ```
