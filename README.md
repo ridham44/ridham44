@@ -20,11 +20,19 @@ Lately that means LLM-powered systems: RAG assistants, AI hiring pipelines, and 
 
 ## 01 · About
 
-- Full-stack developer working mostly with React, Node.js/Express, and MongoDB, PostgreSQL, or MySQL.
-- Backend-heavy: REST API design, auth, multi-tenant data isolation, and ORMs (Prisma, Sequelize, Mongoose) built for real users.
-- Currently an **AI/ML Developer at Work24**, building LLM chat and voice-to-voice features for **Hyphen OI**.
-- I like making AI dependable. My RAG systems refuse to answer when retrieval is weak instead of guessing, and some of them run entirely on local models.
-- I also use Python for ML, NLP, and data work alongside the web stack.
+```python
+class Ridham:
+    role       = "Full Stack Developer · AI / LLM Engineer"
+    location   = "Ahmedabad, India"
+    education  = "B.Tech CSE, LJ University (2022–2026)"
+    current    = "AI/ML Developer @ Work24 — LLM chat & voice-to-voice AI for Hyphen OI"
+
+    stack      = ["React", "Node.js", "Express", "MongoDB", "PostgreSQL", "MySQL"]
+    backend    = ["REST APIs", "Auth", "Multi-tenant data isolation", "Prisma", "Sequelize", "Mongoose"]
+    ai_ml      = ["LLMs", "RAG", "Voice AI", "Local models", "NLP", "Machine Learning"]
+
+    principle  = "Dependable AI: refuse when retrieval is weak instead of guessing."
+```
 
 ---
 
@@ -116,10 +124,14 @@ Lately that means LLM-powered systems: RAG assistants, AI hiring pipelines, and 
 
 ---
 
-## 04 · Currently Building
+## 04 · Most Used Languages
 
-- **Hyphen OI** at Work24: LLM response generation, conversational flows, and voice-to-voice AI.
-- **[LiveKit VoiceLab](https://github.com/ridham44/LiveKit-VoiceLab)**: a dashboard to configure voice agents (LLM, STT, TTS, turn detection), call them from the browser, and inspect per-turn metrics.
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ridham44&layout=compact&langs_count=6&theme=github_dark&hide_border=true&card_width=420" />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridham44&layout=compact&langs_count=6&theme=default&hide_border=true&card_width=420" />
+</picture>
+</div>
 
 ---
 
