@@ -1,138 +1,61 @@
 <div align="center">
 
-# Ridham Patel
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ridham+Patel+%F0%9F%91%8B;AI%2FML+Developer+%40+Work24;Building+LLM+%26+Voice+AI+products;Full-Stack+%C2%B7+MERN+%C2%B7+Python" alt="Ridham Patel" />
 
-**Full Stack Developer** &nbsp;·&nbsp; MERN &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; Product Builder
+**Software Developer** &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Voice AI &nbsp;·&nbsp; Full-Stack (MERN) &nbsp;·&nbsp; 📍 Ahmedabad, India
 
-<sub>Ahmedabad, India</sub>
-
-I build full-stack products end-to-end — APIs, data layer, and the interface people actually touch —
-and I'm currently shipping LLM-powered conversational and voice AI features in production.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=)](https://www.linkedin.com/in/ridham-44-patel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4)](https://ridham44portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ridhampaems@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/ridham44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=)](https://www.linkedin.com/in/ridham-44-patel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=4285F4)](https://ridham44portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ridhampaems@gmail.com)
 
 </div>
 
 ---
 
-## 01 · About
+### 👨‍💻 About
 
-- Computer Science & Engineering undergrad (LJ University, 2022 – 2026), full-stack developer by trade.
-- Comfortable across the MERN stack — React on the front, Node.js/Express and MongoDB or MySQL underneath.
-- Backend-heavy engineering background: REST API design, auth, multi-tenant systems, and ORMs (Sequelize, Mongoose) built for real users, not tutorials.
-- Use Python for machine learning, NLP, and data-driven applications alongside the web stack.
-- Currently working inside Generative AI and Conversational/Voice AI — building LLM-backed product features, not just experimenting with them.
-- Interested in the point where GenAI stops being a demo and starts being a dependable part of a product.
+I build production software end to end: backend APIs, data models, and the AI layer on top.
+Right now I'm an **AI/ML Developer at Work24**, shipping LLM response generation, conversational flows, and real-time **voice-to-voice** features for **Hyphen OI**.
+Before that I built REST backends for multi-tenant SaaS, marketplaces, and POS systems on Node.js, MongoDB, and MySQL.
 
----
+### 💼 Experience
 
-## 02 · Engineering Stack
+| Role | Company | Period | Highlights |
+|---|---|---|---|
+| **AI/ML Developer** | Work24 | Aug 2026 – Present | Hyphen OI: LLM chat, voice AI, conversational flows |
+| **MERN Stack Intern** | WebEarl Technologies | Mar 2026 – Aug 2026 | BookBuzz, PropertyHub, Shoply (multi-tenant POS) APIs |
+| **Node.js Intern** | CHL Group | May 2025 – Oct 2025 | CHPL Food & CHPL VI: multi-tenant APIs, RBAC, analytics |
 
-<table>
-<tr><td><b>Languages</b></td><td>
+### 🚀 Featured Projects
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=E76F00)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square)
+| Project | What it does | Stack |
+|---|---|---|
+| **RecruitIQ** | AI hiring platform. Hybrid rule-based + LLM candidate screening (demographic data kept out of prompts), AI voice interviews, race-safe slot booking | React · Node.js · PostgreSQL · Prisma · LiveKit · Deepgram |
+| **KnowledgeVoice** | RAG assistant that answers from uploaded PDF/DOCX/TXT files with cited sources, per-user data isolation, and voice Q&A | React · Express · MongoDB · OpenRouter · Deepgram |
+| **Stock Prediction** | ML price forecasting on Yahoo Finance data with interactive trend charts | Django · Scikit-learn · Plotly |
 
-</td></tr>
-<tr><td><b>Frontend</b></td><td>
+### 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,java,react,nodejs,express,django,dotnet,mongodb,mysql,postgres,prisma,aws,git,gitlab,postman&perline=16" alt="Tech stack" />
+</p>
 
-</td></tr>
-<tr><td><b>Backend</b></td><td>
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=flat-square)
-
-</td></tr>
-<tr><td><b>Database</b></td><td>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![NoSQL](https://img.shields.io/badge/NoSQL-0d1117?style=flat-square)
-
-</td></tr>
-<tr><td><b>AI / Data</b></td><td>
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square)
+![Voice AI](https://img.shields.io/badge/Voice%20AI-0d1117?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-0d1117?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-0d1117?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)
-
-</td></tr>
-<tr><td><b>Tools / Cloud</b></td><td>
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
-![GitLab](https://img.shields.io/badge/GitLab-0d1117?style=flat-square&logo=gitlab&logoColor=FC6D26)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
-
-</td></tr>
-</table>
-
----
-
-## 03 · Featured Work
-
-### AI & Full-Stack Projects
-
-| Project | Problem → Solution | Stack |
-|---|---|---|
-| **F1 Race Strategy & Analytics Platform** | Predicts pit-stop timing, race strategy, and driver performance from historical race data, then layers Generative AI on top of the raw model output to produce readable strategy insights. | React · Node.js · Express · Python · Scikit-learn · Generative AI |
-| **AI Movie Recommendation System** | Classifies a user's mood from natural-language input and recommends movies/genres to match it, instead of relying on static genre filters. | Python · Flask · NLP · Machine Learning · HTML/CSS/JS |
-| **Stock Prediction Using Machine Learning** | Forecasts price trends from historical market data pulled live from Yahoo Finance, visualized as interactive trend charts. | Django · Python · Scikit-learn · Plotly · Yahoo Finance API |
-
-<sub>Source and write-ups are on GitHub — browse <a href="https://github.com/ridham44?tab=repositories">ridham44's repositories</a> for details.</sub>
-
-### Production Systems — Internship Engagements
-
-| Platform | What it does | Stack |
-|---|---|---|
-| **BookBuzz** | Backend for a live academic book marketplace — auth, listings, cart, purchases, trade-ins, and separate student/publisher roles. | Node.js · Express · MongoDB · Mongoose |
-| **PropertyHub** | Real-estate platform APIs — listings, documents, amenities, reviews, shortlists, nearby-places search, and advanced filtering. | Node.js · Express · MongoDB |
-| **Shoply** | Multi-tenant restaurant ordering & POS system — menus, orders, billing, payments, and QR-code ordering. | Node.js · Express · MySQL · Sequelize |
-| **CHPL Food / CHPL VI** | Multi-tenant food-ordering platform, plus a call-tracking & analytics system with RBAC and timezone-aware reporting. | Node.js · Express · Sequelize · MySQL |
-
-<sub>Built for real users under active engineering internships — codebases are private to the respective companies.</sub>
-
----
-
-## 04 · Currently Building
-
-- **Hyphen OI** at Work24 — an LLM-powered platform, focused on conversational flows, AI chat, and voice-to-voice interaction.
-- Generative AI patterns for natural, real-time conversational experiences.
-- Full-stack products end-to-end — from API contracts to the UI on top of them.
-
----
-
-## 05 · Philosophy
-
-> I care less about which framework is trending and more about whether what I ship actually holds up —
-> end to end, from the API contract to the person using it on the other side.
 
 ---
 
 <div align="center">
 
-### Have an idea worth building? Let's talk.
+**Open to interesting AI and backend work.** Reach me at [ridhampaems@gmail.com](mailto:ridhampaems@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ridham-patel-141517279)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4)](https://ridham44portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ridhampaems@gmail.com)
+<sub>B.Tech CSE · LJ University (2022 – 2026)</sub>
+
+![Profile views](https://komarev.com/ghpvc/?username=ridham44&style=flat-square&color=58a6ff&label=profile+views)
 
 </div>
