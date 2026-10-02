@@ -9,7 +9,7 @@
 I build full-stack products end-to-end — APIs, data layer, and the interface people actually touch —
 and I'm currently shipping LLM-powered conversational and voice AI features in production.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ridham-patel-141517279)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/ridham-44-patel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4)](https://ridham44portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ridhampaems@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/ridham44)
