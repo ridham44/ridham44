@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/octocat.svg" width="100%" alt="Pixel Octocat walking" />
-
 # Ridham Patel
+
+<img src="assets/f1.svg" width="420" alt="Pixel-art F1 car" />
 
 **Full Stack Developer** &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; MERN
 
