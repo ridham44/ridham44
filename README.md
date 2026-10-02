@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="assets/octocat.svg" width="100%" alt="Pixel Octocat walking" />
+
 # Ridham Patel
 
-**Full Stack Developer** &nbsp;·&nbsp; AI / LLM Engineer &nbsp;·&nbsp; Voice AI &nbsp;·&nbsp; MERN
+**Full Stack Developer** &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; MERN
 
 <sub>Ahmedabad, India</sub>
 
