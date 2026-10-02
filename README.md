@@ -105,26 +105,15 @@ class Ridham:
 
 ## 03 · Featured Work
 
-### AI Systems
-
 | Project | What it does | Stack |
 |---|---|---|
-| **[RecruitIQ](https://github.com/ridham44/RecruitIQ)** &nbsp;[↗ live](https://recruitiq-eta.vercel.app) | AI recruitment platform. Parses resumes, scores and ranks candidates with hybrid rule-based and LLM screening, then runs fully automated AI voice interviews. | React · Node.js · PostgreSQL · Prisma · LiveKit |
-| **[KnowledgeVoice](https://github.com/ridham44/LiveKit-Knowledge-Agent)** &nbsp;[↗ live](https://live-kit-knowledge-agent.vercel.app) | Upload PDFs, DOCX, or TXT files, then ask questions by text or voice. Every answer is grounded in your documents and cites its source. | React · Express · MongoDB · Deepgram |
-| **[Company Knowledge Assistant](https://github.com/ridham44/COMPANY-SPECIFIC-AI-ASSISTANT)** | Private, self-hosted, multi-tenant RAG chatbot that sends nothing to external APIs. It returns a fixed "not enough info" reply instead of hallucinating. | Python · Ollama · Vector store |
-| **[Local AI Research Engine](https://github.com/ridham44/LLM-project-Cars)** | Classifies each question's intent and complexity, retrieves evidence, and routes it to exactly one local model. No cloud calls. | Python · Ollama · spaCy · ONNX |
-| **[Enzo Voice Agent](https://github.com/ridham44/Live-kit-voice-)** &nbsp;[↗ live](https://frontend-ridham44.vercel.app) | Real-time voice assistant on LiveKit, with push-to-talk, live captions, and a swappable LLM adapter. | TypeScript · LiveKit Agents |
+| **[RecruitIQ](https://github.com/ridham44/RecruitIQ)** [↗](https://recruitiq-eta.vercel.app) | AI hiring: resume scoring + automated voice interviews | React · Node.js · PostgreSQL · LiveKit |
+| **[KnowledgeVoice](https://github.com/ridham44/LiveKit-Knowledge-Agent)** [↗](https://live-kit-knowledge-agent.vercel.app) | Ask your documents by text or voice, with cited answers | React · Express · MongoDB · Deepgram |
+| **[Company Knowledge Assistant](https://github.com/ridham44/COMPANY-SPECIFIC-AI-ASSISTANT)** | Self-hosted, multi-tenant RAG chatbot, no external APIs | Python · Ollama |
+| **[Local AI Research Engine](https://github.com/ridham44/LLM-project-Cars)** | Routes each question to the right local model | Python · Ollama · spaCy |
+| **[Enzo Voice Agent](https://github.com/ridham44/Live-kit-voice-)** [↗](https://frontend-ridham44.vercel.app) | Real-time voice assistant with live captions | TypeScript · LiveKit |
 
-### Full-Stack & ML
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[NFS Car Reviews](https://github.com/ridham44/Nfs)** | Car review platform with auth, ratings, and real-time reviews. | MERN · Tailwind |
-| **[Movie NLP](https://github.com/ridham44/Movie-Nlp)** | Detects your mood from text and recommends movies to match. | Python · Flask · NLP |
-| **[Stock Prediction](https://github.com/ridham44/Stock-market-Prediction-with-Machine-Learning-Django)** | Forecasts prices from Yahoo Finance data and shows them as interactive charts. | Django · Scikit-learn · Plotly |
-| **[Medicine Recommender](https://github.com/ridham44/Medicine-Recommender-System)** | Recommends medicines from symptoms, with an ML model served behind a .NET API. | ASP.NET Core · C# · ML |
-
-<sub>Also: Power BI dashboards (F1, Hospital, HR), Java + JDBC management systems, and an ASP.NET Core REST API. See <a href="https://github.com/ridham44?tab=repositories">all repositories</a>.</sub>
+<sub>More: <a href="https://github.com/ridham44/Nfs">NFS Car Reviews</a> · <a href="https://github.com/ridham44/Movie-Nlp">Movie NLP</a> · <a href="https://github.com/ridham44/Stock-market-Prediction-with-Machine-Learning-Django">Stock Prediction</a> · <a href="https://github.com/ridham44/Medicine-Recommender-System">Medicine Recommender</a> · Power BI dashboards · <a href="https://github.com/ridham44?tab=repositories">all repos →</a></sub>
 
 ---
 
