@@ -1,61 +1,140 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ridham+Patel+%F0%9F%91%8B;AI%2FML+Developer+%40+Work24;Building+LLM+%26+Voice+AI+products;Full-Stack+%C2%B7+MERN+%C2%B7+Python" alt="Ridham Patel" />
+# Ridham Patel
 
-**Software Developer** &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Voice AI &nbsp;·&nbsp; Full-Stack (MERN) &nbsp;·&nbsp; 📍 Ahmedabad, India
+**Full Stack Developer** &nbsp;·&nbsp; AI / LLM Engineer &nbsp;·&nbsp; Voice AI &nbsp;·&nbsp; MERN
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=)](https://www.linkedin.com/in/ridham-44-patel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=4285F4)](https://ridham44portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ridhampaems@gmail.com)
+<sub>Ahmedabad, India</sub>
+
+I build full-stack products end to end, from APIs and the data layer to the interface people actually use.
+Lately that means LLM-powered systems: RAG assistants, AI hiring pipelines, and real-time voice agents.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=)](https://www.linkedin.com/in/ridham-44-patel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4)](https://ridham44portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ridhampaems@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/ridham44)
 
 </div>
 
 ---
 
-### 👨‍💻 About
+## 01 · About
 
-I build production software end to end: backend APIs, data models, and the AI layer on top.
-Right now I'm an **AI/ML Developer at Work24**, shipping LLM response generation, conversational flows, and real-time **voice-to-voice** features for **Hyphen OI**.
-Before that I built REST backends for multi-tenant SaaS, marketplaces, and POS systems on Node.js, MongoDB, and MySQL.
+- Full-stack developer working mostly with React, Node.js/Express, and MongoDB, PostgreSQL, or MySQL.
+- Backend-heavy: REST API design, auth, multi-tenant data isolation, and ORMs (Prisma, Sequelize, Mongoose) built for real users.
+- Currently an **AI/ML Developer at Work24**, building LLM chat and voice-to-voice features for **Hyphen OI**.
+- I like making AI dependable. My RAG systems refuse to answer when retrieval is weak instead of guessing, and some of them run entirely on local models.
+- I also use Python for ML, NLP, and data work alongside the web stack.
 
-### 💼 Experience
+---
 
-| Role | Company | Period | Highlights |
-|---|---|---|---|
-| **AI/ML Developer** | Work24 | Aug 2026 – Present | Hyphen OI: LLM chat, voice AI, conversational flows |
-| **MERN Stack Intern** | WebEarl Technologies | Mar 2026 – Aug 2026 | BookBuzz, PropertyHub, Shoply (multi-tenant POS) APIs |
-| **Node.js Intern** | CHL Group | May 2025 – Oct 2025 | CHPL Food & CHPL VI: multi-tenant APIs, RBAC, analytics |
+## 02 · Engineering Stack
 
-### 🚀 Featured Projects
+<table>
+<tr><td><b>Languages</b></td><td>
 
-| Project | What it does | Stack |
-|---|---|---|
-| **RecruitIQ** | AI hiring platform. Hybrid rule-based + LLM candidate screening (demographic data kept out of prompts), AI voice interviews, race-safe slot booking | React · Node.js · PostgreSQL · Prisma · LiveKit · Deepgram |
-| **KnowledgeVoice** | RAG assistant that answers from uploaded PDF/DOCX/TXT files with cited sources, per-user data isolation, and voice Q&A | React · Express · MongoDB · OpenRouter · Deepgram |
-| **Stock Prediction** | ML price forecasting on Yahoo Finance data with interactive trend charts | Django · Scikit-learn · Plotly |
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=E76F00)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
 
-### 🛠 Tech Stack
+</td></tr>
+<tr><td><b>Frontend</b></td><td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,java,react,nodejs,express,django,dotnet,mongodb,mysql,postgres,prisma,aws,git,gitlab,postman&perline=16" alt="Tech stack" />
-</p>
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
+
+</td></tr>
+<tr><td><b>Data</b></td><td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-0d1117?style=flat-square&logo=sequelize&logoColor=52B0E7)
+
+</td></tr>
+<tr><td><b>AI / Voice</b></td><td>
 
 ![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square)
-![Voice AI](https://img.shields.io/badge/Voice%20AI-0d1117?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-0d1117?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-0d1117?style=flat-square)
+![Deepgram](https://img.shields.io/badge/Deepgram-0d1117?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+
+</td></tr>
+<tr><td><b>Tools / Cloud</b></td><td>
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitLab](https://img.shields.io/badge/GitLab-0d1117?style=flat-square&logo=gitlab&logoColor=FC6D26)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)
+
+</td></tr>
+</table>
+
+---
+
+## 03 · Featured Work
+
+### AI Systems
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[RecruitIQ](https://github.com/ridham44/RecruitIQ)** &nbsp;[↗ live](https://recruitiq-eta.vercel.app) | AI recruitment platform. Parses resumes, scores and ranks candidates with hybrid rule-based and LLM screening, then runs fully automated AI voice interviews. | React · Node.js · PostgreSQL · Prisma · LiveKit |
+| **[KnowledgeVoice](https://github.com/ridham44/LiveKit-Knowledge-Agent)** &nbsp;[↗ live](https://live-kit-knowledge-agent.vercel.app) | Upload PDFs, DOCX, or TXT files, then ask questions by text or voice. Every answer is grounded in your documents and cites its source. | React · Express · MongoDB · Deepgram |
+| **[Company Knowledge Assistant](https://github.com/ridham44/COMPANY-SPECIFIC-AI-ASSISTANT)** | Private, self-hosted, multi-tenant RAG chatbot that sends nothing to external APIs. It returns a fixed "not enough info" reply instead of hallucinating. | Python · Ollama · Vector store |
+| **[Local AI Research Engine](https://github.com/ridham44/LLM-project-Cars)** | Classifies each question's intent and complexity, retrieves evidence, and routes it to exactly one local model. No cloud calls. | Python · Ollama · spaCy · ONNX |
+| **[Enzo Voice Agent](https://github.com/ridham44/Live-kit-voice-)** &nbsp;[↗ live](https://frontend-ridham44.vercel.app) | Real-time voice assistant on LiveKit, with push-to-talk, live captions, and a swappable LLM adapter. | TypeScript · LiveKit Agents |
+
+### Full-Stack & ML
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[NFS Car Reviews](https://github.com/ridham44/Nfs)** | Car review platform with auth, ratings, and real-time reviews. | MERN · Tailwind |
+| **[Movie NLP](https://github.com/ridham44/Movie-Nlp)** | Detects your mood from text and recommends movies to match. | Python · Flask · NLP |
+| **[Stock Prediction](https://github.com/ridham44/Stock-market-Prediction-with-Machine-Learning-Django)** | Forecasts prices from Yahoo Finance data and shows them as interactive charts. | Django · Scikit-learn · Plotly |
+| **[Medicine Recommender](https://github.com/ridham44/Medicine-Recommender-System)** | Recommends medicines from symptoms, with an ML model served behind a .NET API. | ASP.NET Core · C# · ML |
+
+<sub>Also: Power BI dashboards (F1, Hospital, HR), Java + JDBC management systems, and an ASP.NET Core REST API. See <a href="https://github.com/ridham44?tab=repositories">all repositories</a>.</sub>
+
+---
+
+## 04 · Currently Building
+
+- **Hyphen OI** at Work24: LLM response generation, conversational flows, and voice-to-voice AI.
+- **[LiveKit VoiceLab](https://github.com/ridham44/LiveKit-VoiceLab)**: a dashboard to configure voice agents (LLM, STT, TTS, turn detection), call them from the browser, and inspect per-turn metrics.
+
+---
+
+## 05 · Philosophy
+
+> I care less about which framework is trending and more about whether what I ship actually holds up,
+> end to end, from the API contract to the person using it on the other side.
 
 ---
 
 <div align="center">
 
-**Open to interesting AI and backend work.** Reach me at [ridhampaems@gmail.com](mailto:ridhampaems@gmail.com)
+### Have an idea worth building? Let's talk.
 
-<sub>B.Tech CSE · LJ University (2022 – 2026)</sub>
-
-![Profile views](https://komarev.com/ghpvc/?username=ridham44&style=flat-square&color=58a6ff&label=profile+views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4)](https://ridham44portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ridhampaems@gmail.com)
 
 </div>
